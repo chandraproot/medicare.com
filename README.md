@@ -1,4 +1,4 @@
-#medicine website
+Medicine website
 
 This is a simple medicine website using vanilla CSS and HTML
 
